@@ -7,6 +7,6 @@ HOla mi nombres es German ABinet y estoy cursando la beca de Globant
 
 
 
-Hola
+## Skills
 
-nueva actualizacion
+- Trabajo en equipo
