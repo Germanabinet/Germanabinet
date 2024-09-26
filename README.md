@@ -1,12 +1,11 @@
-# Hello! I'm Eggsy! Full Stack Developer
+# Hello! 
+## Clase
 
-##Clase
-
-
-HOla mi nombres es German ABinet y estoy cursando la beca de Globant
 
 
 
 ## Hobbies
 
-Leer
+- Leer
+- Entrenar
+- Pasar tiempo con la familia
