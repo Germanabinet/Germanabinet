@@ -2,5 +2,8 @@
 
 ## About Me
 
+## Languages
+- Inglés: Conversacional intermedio - Lectura y escritura Técnico
+
 
 
